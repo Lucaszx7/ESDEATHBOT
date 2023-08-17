@@ -1,15 +1,15 @@
 # Aleatory MD - BOT DE WHATSAPP
 <div align="center">
-<img src="https://telegra.ph/file/e6018110d95e1a9fc7efe.jpg" alt="Aleatory MD - BOT" width="300" />
+<img src="https://telegra.ph/file/4f55f227cb19842a5280b.jpg" alt="ESDEATH BOT" width="300" />
 
 </div>
 <p align="center">
-  <a href="https://github.com/Salientekill/ESDEATHBOT.git"><img title="Author" src="https://telegra.ph/file/4f55f227cb19842a5280b.jpg" /></a>
+  <a href="https://github.com/Salientekill/ESDEATHBOT.git"><img title="Author" src="https://img.shields.io/badge/Author-Aleatory-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
 
 Precisa de ajuda ? Entra em nosso Chat: 
 
-https://chat.whatsapp.com/CeJrLkr13W1I0KRcfu9mtZ
+https://chat.whatsapp.com/GTXYQ9ipObnKfHU1jMPLII
 
 
 SÓ SERÁ NESCESSARIO DA OS COMANDOS BÁSICOS DO TERMUX, SE APÓS A INSTALAÇÃO DELE, NÃO FOI DADO ESSES COMANDOS LISTADOS. 
@@ -61,7 +61,7 @@ COMANDO PRA INSTALAR A PASTA DO BOT, APÓS TUDO OU NÃO ERA NESCESSARIO:
 
 ___-_-_-_-_-
 
-cd /sdcard && rm -rf aleatory-md && git clone https://github.com/NuevaGeneracionALB/aleatory-md.git && cd aleatory-md && sh start.sh  
+cd /sdcard && rm -rf ESDEATHBOT && git clone https://github.com/Salientekill/ESDEATHBOT.git && cd ESDEATHBOT && sh start.sh  
 
 
 _- SÓ BASTA COPIAR ELE TODO, E COLAR LÁ, NÃO É PRA COPIAR A METADE NEM UMA COISA SÓ, É TODO. 
