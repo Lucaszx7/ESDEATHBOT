@@ -4,10 +4,10 @@
 
 </div>
 <p align="center">
-  <a href="https://github.com/Salientekill/ESDEATHBOT.git"><img title="Author" src="https://img.shields.io/badge/Author-Aleatory-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Salientekill/ESDEATHBOT.git"><img title="Author" src="https://img.shields.io/badge/Author-LOTUSDEV-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
 
-Precisa de ajuda ? Entra em nosso Chat: 
+Precisa de ajuda? Entre em nosso Grupo: 
 
 https://chat.whatsapp.com/GTXYQ9ipObnKfHU1jMPLII
 
