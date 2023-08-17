@@ -1,1 +1,1 @@
-pkg install zip unzip -y && zip -r dados.zip dados && mv dados.zip ../ && cd .. && rm -rf ESDEATHBOT && git clone https://github.com/NuevaGeneracionALB/aleatory-md.git && rm -rf ./ESDEATHBOT/dados && mv dados.zip ESDEATHBOT && cd ESDEATHBOT && unzip dados.zip && sh start.sh
+pkg install zip unzip -y && zip -r dados.zip dados && mv dados.zip ../ && cd .. && rm -rf ESDEATHBOT && git clone https://github.com/Salientekill/ESDEATHBOT.git && rm -rf ./ESDEATHBOT/dados && mv dados.zip ESDEATHBOT && cd ESDEATHBOT && unzip dados.zip && sh start.sh

@@ -4,7 +4,7 @@
 
 </div>
 <p align="center">
-  <a href="https://github.com/NuevaGeneracionALB/aleatory-md.git"><img title="Author" src="https://img.shields.io/badge/Author-Aleatory-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Salientekill/ESDEATHBOT.git"><img title="Author" src="https://telegra.ph/file/4f55f227cb19842a5280b.jpg" /></a>
   <h4 align="center">
 
 Precisa de ajuda ? Entra em nosso Chat: 
