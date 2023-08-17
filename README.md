@@ -1,4 +1,4 @@
-# Aleatory MD - BOT DE WHATSAPP
+# ESDEATH BOT DE WHATSAPP
 <div align="center">
 <img src="https://telegra.ph/file/4f55f227cb19842a5280b.jpg" alt="ESDEATH BOT" width="300" />
 
